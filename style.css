@@ -1,0 +1,17 @@
+body{
+	background-color: #DCDCDC;
+}
+
+/*Стили родительского блока*/
+#text{
+	position: relative;
+	text-align: center;
+	margin-top: 100px;
+	max-width: 500px;
+
+}
+/*Первичные стили текста , который будет введен*/
+.sim{
+	display: inline;
+	font-size: 40px;
+}
